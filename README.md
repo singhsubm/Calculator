@@ -1,2 +1,2 @@
 # Calculator
-https://singhsubm.github.io/Calculator/
+https://singhsubm.github.io/Calculator
